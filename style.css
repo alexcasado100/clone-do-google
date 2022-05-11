@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  background-color: #202020;
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+img {
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+}
+.button_login {
+  background-color: #8AB4F8;
+  padding: 10px 24px;
+  border: 1px solid #1c1c1c;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+  font-family: Arial;
+  padding-right: 20px;
+}
+.link_menu1 {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.logo_google {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+  height: 290px;
+  margin-top: 40px;
+}
+.logo_google_img {
+  width: 275px;
+  height: 95px;
+  margin-bottom: 25px;
+}
+.area_search {
+  width: 100%;
+  height: 125px;
+  display: flex;
+  justify-content: center;
+}
+.google_search {
+  width: 560px;
+  height: 40px;
+  padding: 5px 8px 0px 14px;
+  border: 1px solid #505050;
+  border-radius: 30px;
+}
+.google_search:hover {
+  background-color: #303030;
+}
+#lupa_search {
+  width: 33px;
+  height: 44px;
+  margin: -9px 5px 0px;
+}
+.lupa_img {
+  width: 15px;
+  height: 15px;
+}
+input {
+  width: 447px;
+  height: 34px;
+  margin-top: 2.5px;
+  margin-left: 35px;
+  border: 0px;
+  outline: 0;
+  background-color: transparent;
+  font-size: 15px;
+  color: white;
+}
+.input_search {
+  width: 447px;
+  height: 39px;
+  margin: -37px 0px 0px;
+}
+.teclado_search {
+  display: flex;
+  justify-content: flex-end;
+  margin: -50px 0px 0px;
+}
+.teclado_img {
+  width: 23px;
+  height: 23px;
+  margin-right: 30px;
+}
+.microfone_img {
+  width: 25px;
+  height: 25px;
+}
+.microfone_search {  
+  display: flex;
+  justify-content: flex-end;
+  margin: -48px 0px 0px;
+  margin-left: 572px;
+}
+.button_search {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.button_google {
+  background-color: #303134;
+  padding: 10px 18px;
+  border: 1px solid #1c1c1c;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+}
+.area_vazia {
+  width: 100%;
+  height: 325px;
+}
+.div1 {
+  width: 100%;
+  height: 35px;
+  background-color: #151515;
+  padding-top: 15px;
+  border-bottom: 1px solid #202020;
+  display: flex;
+  justify-content: flex-start;
+}
+.div2 {
+  width: 100%;
+  height: 35px;
+  background-color: #151515;
+  padding-bottom: 15px;
+}
+.div1 a, .div2 a {
+  font-size: 15px;
+  color: #9aa0a6;
+}
+.div1 a {
+  margin-left: 30px;
+}
+.menu1 {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 15px;
+  margin-left: 30px;
+}
+.menu2 {
+  display: flex;
+  justify-content: flex-end;
+  margin: -17px 0px 30px;
+}
